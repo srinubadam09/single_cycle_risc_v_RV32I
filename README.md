@@ -137,6 +137,9 @@ The testbench performs the following tasks:
 * Displays final register values
 * Generates waveform (`.vcd`) for GTKWave
 
+<img width="1552" height="709" alt="image" src="https://github.com/user-attachments/assets/42f0b741-892b-4715-9cfc-571d1551c3fb" />
+
+
 Example output:
 
 ```
